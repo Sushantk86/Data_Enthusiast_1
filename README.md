@@ -1,4 +1,4 @@
-Prdicting Hospitalization Rate during COVID-19 
+Predicting Hospitalization Rate during COVID-19 
 
 Predicting the Hospitalization during COVID-19 in Brazos County , College Station , Texas 
 A training dataset was provided with 276 observations and 191 predictors. 
