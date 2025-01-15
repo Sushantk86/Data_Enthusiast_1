@@ -1,4 +1,5 @@
-# Data_Enthusiast_1
+Prdicting Hospitalization Rate during COVID-19 
+
 Predicting the Hospitalization during COVID-19 in Brazos County , College Station , Texas 
 A training dataset was provided with 276 observations and 191 predictors. 
 Response variable referred to as Hospitalizations: Hospitalization value represents the number of individuals hospitalized in the Bryan/College Station area due to COVID-19 on the given day
